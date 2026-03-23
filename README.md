@@ -1,68 +1,69 @@
-# 📊 Data Science Salary Insights using SQL
+# 📊 Data Science Job Market Analysis (SQL Project)
 
-## 📖 Overview
+## Project Overview
 
-This project analyzes global data science job data to understand salary trends, job roles, and hiring patterns. Using SQL, it explores how factors like experience, location, company size, and work setting impact salaries.
-
----
-
-## 📂 Dataset
-
-The dataset contains the following columns:
-
-* work_year
-* job_title
-* job_category
-* salary_currency
-* salary
-* salary_in_usd
-* employee_residence
-* experience_level
-* employment_type
-* work_setting
-* company_location
-* company_size
+This project presents a SQL-based analysis of global data science job data. It explores salary trends, job roles, and hiring patterns across different countries, experience levels, and work settings to understand what drives compensation in the data science field.
 
 ---
 
-## 🛠 Tools Used
+## Objectives
+
+* Analyze salary trends across different experience levels
+* Identify the highest paying job roles in data science
+* Compare salaries across countries and locations
+* Understand the impact of remote vs onsite work on salary
+* Examine how company size affects compensation
+
+---
+
+## Analysis Highlights
+
+* Salary distribution by experience level
+* Top paying data science job roles
+* Country-wise salary comparison
+* Remote vs onsite salary trends
+* Company size vs salary analysis
+
+---
+
+## Tools Used
 
 * SQL
 * Microsoft Excel
 
 ---
 
-## 🔍 Analysis Performed
+## Dataset Information
 
-* Salary distribution based on experience level
-* Highest paying job roles
-* Salary comparison across different countries
-* Remote vs onsite work salary trends
-* Impact of company size on salaries
+The dataset includes:
 
----
-
-## 📊 Key Insights
-
-* Senior-level roles earn significantly higher salaries compared to entry-level positions
-* Remote jobs often offer competitive salaries compared to onsite roles
-* Salaries vary significantly across different countries and locations
-* Larger companies tend to offer better compensation than smaller companies
-* Experience level is one of the biggest factors affecting salary
+* Work Year
+* Job Title
+* Job Category
+* Salary (Local Currency & USD)
+* Employee Residence
+* Experience Level
+* Employment Type
+* Work Setting (Remote/Onsite)
+* Company Location
+* Company Size
 
 ---
 
-## 🚀 How to Use
+## Project Files
 
-1. Download the dataset
-2. Import it into your SQL environment
-3. Run the queries from the SQL file
-4. Analyze the outputs and insights
+* SQL Query File
+* Dataset File (Excel)
+* (Optional) Output Screenshots
+
+---
+
+## Purpose of the Project
+
+The purpose of this project is to demonstrate practical SQL skills by analyzing real-world job data and extracting meaningful insights about the data science job market.
 
 ---
 
-## 🎯 Conclusion
+## Author
 
-This project highlights key trends in the data science job market and demonstrates how SQL can be used to extract meaningful insights from real-world data.
-
----
+Rohan
